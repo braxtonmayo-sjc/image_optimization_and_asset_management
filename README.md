@@ -1,0 +1,2 @@
+# image_optimization_and_asset_management
+demostrating understanding of image optimization and asset organization
